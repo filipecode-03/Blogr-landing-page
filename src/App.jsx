@@ -7,7 +7,7 @@ import editorMobile from './assets/images/illustration-editor-mobile.svg'
 import editorDesktop from './assets/images/group.png'
 import phones from './assets/images/illustration-phones.svg'
 import laptopMobile from './assets/images/illustration-laptop-mobile.svg'
-import laptopDesktop from './assets/images/group2.png'
+import laptopDesktop from './assets/images/laptop.png'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faChevronDown, faChevronUp } from "@fortawesome/free-solid-svg-icons";
 import { useFloating, offset, flip, shift, autoUpdate, } from "@floating-ui/react";
